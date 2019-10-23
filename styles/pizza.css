@@ -1,0 +1,38 @@
+#address-block {
+    display: none;
+}
+
+body {
+    background-color: red;
+}
+
+.btn-primary {
+    background-color: darkgreen;
+}
+
+.err {
+    color: darkred;
+    visibility: hidden;
+}
+
+fieldset {
+    border: 1px solid darkgreen;
+    padding: 1em;
+}
+
+.jumbotron {
+    background-color: darkgreen;
+    color: white;
+}
+
+legend {
+    font-weight: bold;
+    color: darkgreen;
+    font-variant: small-caps;
+    font-size: 125%;
+}
+
+#main {
+    background-color: white;
+    margin: 0em 10em 15em 10em;
+}
