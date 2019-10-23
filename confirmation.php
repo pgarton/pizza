@@ -38,7 +38,7 @@
       //Send order by email
       //Note: this will probably go to your spam folder
       $email = "pgarton@mail.greenriver.edu";
-      $email_body = "Order Summary --\r\n";
+      $email_body = "Pizza Order Summary --\r\n";
       $email_body .= "Name:  $first $last\r\n";
       $email_subject = "New Order Placed";
       $to = $email;
